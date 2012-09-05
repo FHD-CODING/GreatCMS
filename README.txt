@@ -5,44 +5,44 @@
 
 
 
-                                     /===========================================================\
-									| 				 Copyright  © Finley Siebert				 |
-									|                                                            |
-									|   ##########   #########   ########   ######### ########## |
-									|	##           ##     ##   ##         ##     ##     ##     |
-									|	##           ##     ##   ##         ##     ##     ##     |
-									|	##   #####   #########   ########   #########     ##     |
-									|	##      ##   ##          ##         ##     ##     ##     |
-									|	##      ##   ## ##       ##         ##     ##     ##     |
-									|	##########   ##   ####   ########   ##     ##     ##     |
-									|															 |
-									|                 Content Managerment System				 |
-									\============================================================/
+ /===========================================================\
+| 				 Copyright  Â© Finley Siebert				 |
+|                                                            |
+|   ##########   #########   ########   ######### ########## |
+|	##           ##     ##   ##         ##     ##     ##     |
+|	##           ##     ##   ##         ##     ##     ##     |
+|	##   #####   #########   ########   #########     ##     |
+|	##      ##   ##          ##         ##     ##     ##     |
+|	##      ##   ## ##       ##         ##     ##     ##     |
+|	##########   ##   ####   ########   ##     ##     ##     |
+|															 |
+|                 Content Managerment System				 |
+\============================================================/
 									
-									Hey, welkom en bedankt dat je GreatCMS gedownload hebt!
+Hey, welkom en bedankt dat je GreatCMS gedownload hebt!
 									
-									Als eerste wil ik kwijt dat dit een alpha versie is, en er dus nogal bugs
-									in kunnen zitten. 
+Als eerste wil ik kwijt dat dit een alpha versie is, en er dus nogal bugs
+in kunnen zitten. 
 									
-									Ten tweede zitten wij in een vieze wereld met allemaal 
-									kleine lulletjes die © willen veranderen. Wees een vent, en DOE DIT NIET
-									Je zou je hiervoor moeten schamen. Ik release iets waar ik bijna een maand
-									mee bezig ben, en dan verander jij mooi de credits? En als iemand er dan
-									achter komt dat je deze CMS gebruikt, word je misschien ook wel gehackt.
-									Genoeg kleine ddosertjes ;D
+Ten tweede zitten wij in een vieze wereld met allemaal 
+kleine lulletjes die Â© willen veranderen. Wees een vent, en DOE DIT NIET
+Je zou je hiervoor moeten schamen. Ik release iets waar ik bijna een maand
+mee bezig ben, en dan verander jij mooi de credits? En als iemand er dan
+achter komt dat je deze CMS gebruikt, word je misschien ook wel gehackt.
+Genoeg kleine ddosertjes ;D
 									
-									Ik wil de volgende mensen bedanken voor het helpen, en de inspiratie:
+Ik wil de volgende mensen bedanken voor het helpen, en de inspiratie:
 									
-									-Wouter, Hij gaf me inspiratie, en ik mocht het op zijn VPS testen.
+-Wouter, Hij gaf me inspiratie, en ik mocht het op zijn VPS testen.
 									
 									
-									Bedankt, en bye!
+Bedankt, en bye!
 									
-									MVG, FHD 
+MVG, FHD 
 									
-									Officieële Website
+OfficieÃ«le Website
 									
-									http://cms.finleyhd.nl
-									http://finleyhd.nl
+http://cms.finleyhd.nl
+http://finleyhd.nl
 										
 									
